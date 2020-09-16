@@ -1,0 +1,59 @@
+body {
+  background-color: #d6e0f0;
+}
+
+h1{
+  color:#519872;
+}
+h2{
+  color: #382933;
+}
+
+hr{
+  border-style: none ;
+  border-top-style: dotted;
+  border-color: #d6e0f0;
+  border-width: 5px;
+  width: 5%;
+}
+th{
+  color: #519872;
+}
+
+/*********** Class Selectors ***********/
+
+
+.YourName{
+  color: #7d0633;
+  font-size: 30px;
+}
+
+.email{
+  color: #ff4b5c;
+  font-size: 30px;
+}
+
+.phone{
+  color: #00bcd4;
+  font-size: 30px;
+}
+
+.address{
+  color: #62760c;
+  font-size: 30px;
+}
+
+.date{
+  color: #ffd36b;
+  font-size: 30px;
+}
+
+.message{
+  color: #ffa36c;
+  font-size: 30px;
+}
+
+.button{
+  color: green;
+  background-color: #ebdc87;
+}
